@@ -13,6 +13,7 @@ ob_start();
 <head>
     <title>Social Network</title>
     <link rel="stylesheet" type="text/css" href="resources/css/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <style>
         .container{
             margin: 40px auto;
