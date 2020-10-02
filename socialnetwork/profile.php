@@ -25,6 +25,7 @@ if(isset($_GET['id']) && $_GET['id'] != $_SESSION['user_id']) {
 <head>
     <title>Social Network</title>
     <link rel="stylesheet" type="text/css" href="resources/css/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <style>
     .post{
         margin-right: 50px;
